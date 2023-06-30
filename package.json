@@ -1,7 +1,7 @@
 {
-  "name": "backend",
+  "name": "nodejs-skeleton",
   "version": "1.0.0",
-  "description": "Amed Backend - API",
+  "description": "Skeleton for nodejs project",
   "scripts": {
     "start": "tsx app/app.ts",
     "dev": "tsx watch app/app.ts",
